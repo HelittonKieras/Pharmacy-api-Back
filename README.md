@@ -3,3 +3,4 @@ O seu perfil chamou a atenção dos gestores para a criação do back-end do sis
 
 Roteiro: https://docs.google.com/document/d/1X5zHsNAh6HbFGdjEAD6Wx3b4fqDS8uXPWqN0zK2Cr9U/edit
 
+Trello: https://trello.com/b/BpvoEiWA/pharmacybackend
